@@ -1,0 +1,21 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgba(148, 148, 223, 0.2);
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(177, 169, 169);
+}
+ .width{
+     width: 50vw;
+ }
+
+.text{
+    font-size: large;
+    font-weight: 600;
+}
